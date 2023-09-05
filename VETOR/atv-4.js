@@ -1,0 +1,1 @@
+//crie um programa que receba os salarios dos funcionarios e armazene em um array. depois esclua o menor e o maior salario e mostre a média.
