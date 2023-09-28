@@ -11,12 +11,9 @@
 
   }
 
-  input{
-    margin-top: 0.5rem;
-  }
- 
   ::placeholder {
-    font-weight: bold;
-    color: red;
-    opacity:0.5;
-  }
+    color: rgb(192, 192, 192) !important;
+}
+::-ms-input-placeholder { /* Edge 12 -18 */
+  color: rgb(192, 192, 192) !important;
+}
