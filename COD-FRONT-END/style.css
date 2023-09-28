@@ -10,4 +10,13 @@
     height: 40px;
 
   }
+
+  input{
+    margin-top: 0.5rem;
+  }
  
+  ::placeholder {
+    font-weight: bold;
+    color: red;
+    opacity:0.5;
+  }
